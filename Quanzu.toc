@@ -1,0 +1,17 @@
+# https://wowwiki.fandom.com/wiki/TOC_format
+# above website is the format I followed to make this document
+
+# Created by Anzu 9.16.20
+
+## Interface : 803
+## Title : Pandalegs
+# Dependencies : 
+# OptiptionalDeps:
+# LoadonDemand :
+# LoadWith :
+# There are other tags 
+
+Quanzu.xml 
+# guides say an xml file that deals with UI elements is needed, 
+# but I cant find an example in other addon directories
+
