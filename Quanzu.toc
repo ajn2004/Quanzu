@@ -3,8 +3,10 @@
 
 # Created by Anzu 9.16.20
 
-## Interface : 803
-## Title : Pandalegs
+## Interface : 80307
+## Title : Quanzu
+## Notes: An addon I am using to learn how to write addons
+## Version : 0.0.1
 # Dependencies : 
 # OptiptionalDeps:
 # LoadonDemand :
@@ -15,3 +17,4 @@ Quanzu.xml
 # guides say an xml file that deals with UI elements is needed, 
 # but I cant find an example in other addon directories
 
+Quanzu.lua
